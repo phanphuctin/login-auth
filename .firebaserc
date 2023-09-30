@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "login-auth-1f311": {
+      "hosting": {
+        "login-auth": [
+          "login-auth-1f311"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "login-auth-1f311"
+  }
+}
